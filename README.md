@@ -1,6 +1,10 @@
 # text-survivor
 
-start
+stats
+-----
+- strength
+- resiliance
+- stamina
 
 
 
