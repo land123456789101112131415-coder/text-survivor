@@ -37,4 +37,7 @@ organs = {
         "heart-rate":120,
         "blood-count":5
     },
+    "brain": {
+        "health":100
+    }
 }
